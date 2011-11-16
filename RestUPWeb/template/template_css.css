@@ -1,0 +1,89 @@
+
+body {
+
+	background: #ffffff url(images/body_bg.gif) ;
+}
+.wrapper {
+	width: 800px;
+	margin: 0px auto;
+	background-color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+	height: 100px;
+	width: 100%;
+	border: 2px inset #000000;
+	background-color: #E7E1CB;
+	color: #0000CC;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+}
+.footer {
+
+	width: 100%;
+	background-color: #000000;
+	color: #CCCCCC;
+	font-size: 20px;
+	text-align: center;
+
+}
+.box {
+ border: 1px solid #FFCC00;
+ background-color: #FCFEBB;
+ margin-bottom: 10px;
+ padding: 5px;
+ width:20em;
+}
+
+
+.left {float: left; width: 18%; border: solid 1px #cccccc; margin-bottom: 15px; background-color: #ffffff; border-top: 0;}
+.left ul {list-style: none; margin: 0; padding: 0;}
+.left li {
+
+	text-align: left;
+	text-indent: 0.000000pt;
+	font-size: 10.000000pt;
+	text-decoration: none;
+	vertical-align: baseline;
+	text-transform: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	line-height: 12pt;
+
+}
+.left a {display: block; width: 95.5%; margin: 0px; padding: 2px; border: solid 1px #ffffff; color: #0066cc; text-decoration: none;}
+.left a:hover {border: solid 1px #0066cc; background-color: #0066cc; color: #ffffff;}
+.left h3 {margin: 0; padding: 2px; color:#FFFFFF ; font-weight: normal; background-color: #0066cc; border-top: solid 1px #000000; border-bottom: solid 1px #000000;}
+
+.content {margin-left: 20%; padding: 0; border-left: solid 1px #cccccc; border-top: 0; border-bottom: solid 1px #ffffff;  background-color: #ffffff;}
+.content h3 {margin: 0; padding: 2px; font-weight: normal; background-color: #c0c0c0; border-top: solid 1px #000000; border-bottom: solid 1px #000000;}
+.content p {margin: 5px; color: #000000;}
+.content a {color: #0066cc; text-decoration: none;}
+.content a:hover {color: #0000ff; text-decoration: underline;}
+.content .point {margin: 3%; padding: 0px; border: solid 1px #000000; border-top: 0; background-color: #f9f9f9;}
+.content .point h3 {}
+.content .code {margin: 3%; padding: 7px; border: solid 1px #cccccc; background-color: #eeeeee; font: normal 100% courier; color: #000000;}
+
+table {
+
+border-collapse:collapse;
+}
+
+td {
+color:#678197;
+padding:.1em 1em;
+text-align:center;
+}
+ table.listtable tr:hover {
+background-color: #eff7ff;
+        }
+.input {
+        border: 1px solid #cccccc;
+
+        }
+    .inputarea {
+        border: none;
+
+        }
+
+

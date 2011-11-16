@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/xampp/htdocs/RestUPWeb/db/config.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/mobile/order_sender.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/mobile/status_retriever.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/tables/divtables.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/template/template.htm</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/actAddUser.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/actConfirmOrders.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/actDeleteItem.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/actDeleteUser.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/actHomepage.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/actNewItem.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/actPaginator.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/actSignout.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/actUpdateItem.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/actUpdateProfile.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/db.sql</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/dbFunctions.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/frmAddUser.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/frmGetCategory.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/frmGetUsers.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/frmHomepage.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/frmNewItem.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/frmUpdateItem.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/frmUpdateProfile.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/frmViewItem.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/frmViewOrders.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/frmViewUsers.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/index.html</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/itemchangefailed.html</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/loginfailed.php</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/newitemfailed.html</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/profilechangefailed.html</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/selectCategory.js</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/selectUsers.js</file>
+        <file>file:/D:/xampp/htdocs/RestUPWeb/signout.php</file>
+    </open-files>
+</project-private>

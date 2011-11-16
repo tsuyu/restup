@@ -1,0 +1,21 @@
+/*p {  font-family: Arial, Helvetica, sans-serif; font-size: 12px}
+td {  vertical-align: top}
+table {  background-color: #FFCC99; color: #000000}
+.tables { border: 1px #CC0000 solid;}*/
+
+
+/*a:link {  color: #FFFFFF; text-decoration: underline}
+a:hover {  color: #CC0000; text-decoration: none}
+a:visited {  color: #333333}*/
+
+
+/*.TitleCell { background-color: #FF6633; color: #FFFFFF}*/
+.Title2Cell { background-color: #FF9966; color: #FFFFFF }
+/*.form { background-color: #FFCC99; color: #333333; border: 1px #CC0000 solid; font-family: "Lucida Console", "Courier New", Courier, mono }*/
+
+
+.status1 {  background-color: #FFCC99;}
+.status2 {  background-color: #FF6600;}
+.status3 {  background-color: #FF6666;}
+.status4 {  background-color: #FF9966;}
+.status5 {  background-color: #CC0000;}
